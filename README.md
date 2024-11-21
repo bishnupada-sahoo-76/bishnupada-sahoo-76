@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnupada-sahoo-76&label=Profile%20views&color=0e75b6&style=flat" alt="bishnupada-sahoo-76" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bishnu_1012" target="blank"><img src="https://img.shields.io/twitter/follow/bishnu_1012?logo=twitter&style=for-the-badge" alt="bishnu_1012" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
