@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **bishnupadasahoo11@gmail.com**
 
