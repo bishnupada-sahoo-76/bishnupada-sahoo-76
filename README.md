@@ -1,4 +1,4 @@
-![logo](https://externlabs.com/blogs/wp-content/uploads/2021/12/2400%D1%851260-rw-blog-node-js.png)
+![logo](file:///C:/Users/BISHNUPADA%20SAHOO/Desktop/Black%20and%20Gold%20Luxury%20Quotes%20on%20Desktop%20Wallpaper%20(1).png)
 <h1 align="center">Hi 👋, I'm Bishnupada Sahoo</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnupada-sahoo-76&label=Profile%20views&color=0e75b6&style=flat" alt="bishnupada-sahoo-76" /> </p>
