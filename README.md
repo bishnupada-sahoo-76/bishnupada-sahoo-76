@@ -1,4 +1,4 @@
-![logo](file:///C:/Users/BISHNUPADA%20SAHOO/Desktop/Black%20and%20Gold%20Luxury%20Quotes%20on%20Desktop%20Wallpaper%20(1).png)
+![logo](https://www.canva.com/design/DAF48mG4OOo/T00MvvVQRhhdYoT1uaVDnQ/view?utm_content=DAF48mG4OOo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <h1 align="center">Hi 👋, I'm Bishnupada Sahoo</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnupada-sahoo-76&label=Profile%20views&color=0e75b6&style=flat" alt="bishnupada-sahoo-76" /> </p>
