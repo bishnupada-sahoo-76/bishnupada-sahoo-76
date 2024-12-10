@@ -5,8 +5,7 @@
 
 
 - 🌱 I’m currently learning **React**
-- - 💬 Ask me about **react,node.js,Java**
-
+- 💬 Ask me about **react,node.js,Java**
 - 📫 How to reach me **bishnupadasahoo11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
